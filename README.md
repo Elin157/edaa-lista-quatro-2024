@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Algoritmos de Busca em Java</title>
-</head>
-<body>
     <h1>Algoritmos de Busca em Java</h1>
     <p>Este repositório contém implementações em Java dos algoritmos de busca linear, busca binária iterativa e busca binária recursiva. Esses algoritmos são fundamentais para encontrar elementos em listas, e sua implementação em Java permite uma busca eficiente em grandes conjuntos de dados.</p>
 
@@ -33,5 +25,3 @@
     <footer>
         <p>&copy; 2024 - Algoritmos de Busca em Java</p>
     </footer>
-</body>
-</html>
